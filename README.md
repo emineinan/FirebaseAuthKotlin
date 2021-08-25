@@ -4,8 +4,8 @@ This project shows how to use Email/Password Sign-in methods in Firebase Authent
 ## Preview
 <table>
   <tr>
-    <td> Login Screen </td>  
-    <td> Register Screen </td>
+    <td> Register Screen </td>  
+    <td> Login Screen </td>
     <td> Welcome Screen </td>
   </tr>
   <tr>
